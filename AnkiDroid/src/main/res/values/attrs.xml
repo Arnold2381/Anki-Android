@@ -112,6 +112,7 @@
     <attr name="navDrawerImage" format="integer"/>
     <attr name="attachFileImage" format="integer"/>
     <attr name="toggleStickyImage" format="integer"/>
+    <attr name="visualEditorImage" format="integer"/>
     <attr name="upDownImage" format="integer"/>
     <attr name="dialogErrorIcon" format="integer"/>
     <attr name="dialogSyncErrorIcon" format="integer"/>
